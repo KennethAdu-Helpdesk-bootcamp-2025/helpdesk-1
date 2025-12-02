@@ -1,0 +1,4 @@
+Issue: PC won't power on (black screen)
+Fix: VirtualBox I/O APIC disabled → re-enabled → boots
+Tool: Process Explorer – verified no rogue drivers post-fix
+Time: 11 min
